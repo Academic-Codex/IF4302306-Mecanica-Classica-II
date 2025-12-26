@@ -1,0 +1,12 @@
+REPO_TAGLINE: Lagrange/Hamilton Formalism • Perturbation Theory • Integrability
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: library
+SITE_URL: https://academic-codex.github.io/IF4302306-Mecanica-Classica-II
+
+BG_1: "#0F172A"
+BG_2: "#1F2937"
+TEXT_MAIN: "#F9FAFB"
+TEXT_MUTED: "#D1D5DB"
+ACCENT: "#F472B6"
+CARD_RADIUS: "18"
